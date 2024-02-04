@@ -1,0 +1,5 @@
+com\Springmail\SpringApp\service\EmailServiceImpl.class
+com\Springmail\SpringApp\SpringAppApplication.class
+com\Springmail\SpringApp\Entity\EmailDetails.class
+com\Springmail\SpringApp\controller\EmailController.class
+com\Springmail\SpringApp\service\EmailService.class
